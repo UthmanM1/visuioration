@@ -1,0 +1,12 @@
+,Amount,Amount,City
+1,10,11,Paris
+2,abc,12,Lyon,EXTRA
+3,,13
+4,40,14,Nice
+5,50,15,Nice
+6,60,,Nice
+7,70,,Nice
+8,80,,
+9,90,,
+10,100,,
+11,110,,
